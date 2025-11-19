@@ -5,6 +5,7 @@ Projectfolder has .pdf presentation made of the project during the course.
 Files are original, so they include some comments made in finnish.
 
 Original README for the course:
+
 GENERAL
 
         Author: Vilho Jaakkola <vilho.jaakkola@tuni.fi>
